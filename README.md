@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center class="half">
-    <img src="https://github-readme-stats.vercel.app/api?username=yunke120&show_icons=true&theme=radical&count_private=true" width="300"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunke120&theme=radical&layout=compact" width="300"/>
-</center>
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=yunke120&show_icons=true&theme=radical&count_private=true" width="300"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunke120&theme=radical&layout=compact" width="300"/></td>
+</tr></table>
+
 
 ### Script
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=zzu-jksb)](https://github.com/yunke120/zzu-jksb)
