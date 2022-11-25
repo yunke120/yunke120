@@ -22,18 +22,19 @@ Here are some ideas to get you started:
 
 
 ### Script
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=zzu-jksb)](https://github.com/yunke120/zzu-jksb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=pfvpn-sign)](https://github.com/yunke120/pfvpn-sign)
+[![zzu-jksb](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=zzu-jksb)](https://github.com/yunke120/zzu-jksb)
+[![pfvpn-sign](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=pfvpn-sign)](https://github.com/yunke120/pfvpn-sign)
 ### Qt
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=qt-python-yolov5)](https://github.com/yunke120/qt-python-yolov5)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=Qt-Modbus)](https://github.com/yunke120/Qt-Modbus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=ydyodraw)](https://github.com/yunke120/ydyodraw)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=Qt-BDMap)](https://github.com/yunke120/Qt-BDMap)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=QtCreatorTheme-VSCodeDarkPlus)](https://github.com/yunke120/QtCreatorTheme-VSCodeDarkPlus)
+[![qt-python-yolov5](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=qt-python-yolov5)](https://github.com/yunke120/qt-python-yolov5)
+[![Qt-Modbus](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=Qt-Modbus)](https://github.com/yunke120/Qt-Modbus)
+[![ydyodraw](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=ydyodraw)](https://github.com/yunke120/ydyodraw)
+[![Qt-BDMap](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=Qt-BDMap)](https://github.com/yunke120/Qt-BDMap)
+[![QtCreatorTheme-VSCodeDarkPlus](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=QtCreatorTheme-VSCodeDarkPlus)](https://github.com/yunke120/QtCreatorTheme-VSCodeDarkPlus)
 ### Algorithm
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=defect-detecting)](https://github.com/yunke120/defect-detecting)
+[![meter-defect-detecting](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=meter-defect-detecting)](https://github.com/yunke120/meter-defect-detecting)
+[![facemask-datetime-defect-detecting](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=facemask-datetime-defect-detecting)](https://github.com/yunke120/facemask-datetime-defect-detecting)
 ### Programming
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=safe-rules)](https://github.com/yunke120/safe-rules)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=secguide)](https://github.com/yunke120/secguide)
+[![safe-rules](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=safe-rules)](https://github.com/yunke120/safe-rules)
+[![secguide](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=secguide)](https://github.com/yunke120/secguide)
 ### Miscellaneous
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=VisaDemo)](https://github.com/yunke120/VisaDemo)
+[![VisaDemo](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=VisaDemo)](https://github.com/yunke120/VisaDemo)
