@@ -36,5 +36,7 @@ Here are some ideas to get you started:
 ### Programming
 [![safe-rules](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=safe-rules)](https://github.com/yunke120/safe-rules)
 [![secguide](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=secguide)](https://github.com/yunke120/secguide)
+### SCM
+[![SCM](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=SCM)](https://github.com/yunke120/SCM)
 ### Miscellaneous
 [![VisaDemo](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=VisaDemo)](https://github.com/yunke120/VisaDemo)
