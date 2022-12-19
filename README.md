@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 [![SCM](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=SCM)](https://github.com/yunke120/SCM)
 ### Miscellaneous
 [![VisaDemo](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=VisaDemo)](https://github.com/yunke120/VisaDemo)
+[![note-yunke120](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=note-yunke120)](https://github.com/yunke120/note-yunke120)
