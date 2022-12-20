@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 [![ydyodraw](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=ydyodraw)](https://github.com/yunke120/ydyodraw)
 [![Qt-BDMap](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=Qt-BDMap)](https://github.com/yunke120/Qt-BDMap)
 [![QtCreatorTheme-VSCodeDarkPlus](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=QtCreatorTheme-VSCodeDarkPlus)](https://github.com/yunke120/QtCreatorTheme-VSCodeDarkPlus)
-### Algorithm
-[![meter-defect-detecting](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=meter-defect-detecting)](https://github.com/yunke120/meter-defect-detecting)
-[![facemask-datetime-defect-detecting](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=facemask-datetime-defect-detecting)](https://github.com/yunke120/facemask-datetime-defect-detecting)
+
 ### Programming
 [![safe-rules](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=safe-rules)](https://github.com/yunke120/safe-rules)
 [![secguide](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=secguide)](https://github.com/yunke120/secguide)
