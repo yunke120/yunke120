@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunke120&theme=radical&layout=compact" width="337"/></td>
 </tr></table>
 
-
-### Script
-[![zzu-jksb](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=zzu-jksb)](https://github.com/yunke120/zzu-jksb)
-[![pfvpn-sign](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=pfvpn-sign)](https://github.com/yunke120/pfvpn-sign)
 ### Qt
 [![qt-python-yolov5](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=qt-python-yolov5)](https://github.com/yunke120/qt-python-yolov5)
 [![Qt-Modbus](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=Qt-Modbus)](https://github.com/yunke120/Qt-Modbus)
@@ -39,3 +35,4 @@ Here are some ideas to get you started:
 ### Miscellaneous
 [![VisaDemo](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=VisaDemo)](https://github.com/yunke120/VisaDemo)
 [![note-yunke120](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=note-yunke120)](https://github.com/yunke120/note-yunke120)
+[![zzu-jksb](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=zzu-jksb)](https://github.com/yunke120/zzu-jksb)
