@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 [![secguide](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=secguide)](https://github.com/yunke120/secguide)
 ### SCM
 [![SCM](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=SCM)](https://github.com/yunke120/SCM)
-### Miscellaneous
-[![VisaDemo](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=VisaDemo)](https://github.com/yunke120/VisaDemo)
-[![note-yunke120](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=note-yunke120)](https://github.com/yunke120/note-yunke120)
+### Python
 [![zzu-jksb](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=zzu-jksb)](https://github.com/yunke120/zzu-jksb)
+[![VisaDemo](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=VisaDemo)](https://github.com/yunke120/VisaDemo)
+### Miscellaneous
+[![note-yunke120](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=note-yunke120)](https://github.com/yunke120/note-yunke120)
+
