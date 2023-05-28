@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ### Algorithm
 [![face-detect-recognition](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=face-detect-recognition)](https://github.com/yunke120/face-detect-recognition)
 [![meter-defect-detecting](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=meter-defect-detecting)](https://github.com/yunke120/meter-defect-detecting)
+[![meter-yolo](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=meter-yolo)](https://github.com/yunke120/meter-yolo)
 ### Programming
 [![safe-rules](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=safe-rules)](https://github.com/yunke120/safe-rules)
 [![secguide](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=secguide)](https://github.com/yunke120/secguide)
