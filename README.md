@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![secguide](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=secguide)](https://github.com/yunke120/secguide)
 ### SCM
 [![SCM](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=SCM)](https://github.com/yunke120/SCM)
-[![Xiaoqian-Xu](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=Xiaoqian-Xu)](https://github.com/yunke120/Xiaoqian-Xu)
+[![STM32F10x-FireMonitor](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=STM32F10x-FireMonitor)](https://github.com/yunke120/STM32F10x-FireMonitor)
 ### Python
 [![zzu-jksb](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=zzu-jksb)](https://github.com/yunke120/zzu-jksb)
 [![VisaDemo](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=VisaDemo)](https://github.com/yunke120/VisaDemo)
