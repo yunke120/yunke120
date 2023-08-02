@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 </tr></table>
 **Platforms:**
 
-<code><img src="figures/linux.svg" width="24"/></code> <code><img src="figures/windows.svg" width="24"/></code> 
+<code><img src="figures/linux.svg" width="24"/></code> <code><img src="figures/Windows.svg" width="24"/></code> 
 
 **Tools:**
 
-<code><img src="figures/qtcreator.svg" width="24"/></code> <code><img src="figures/vs.svg" width="24"/></code> <code><img src="figures/vscode.svg" width="24"/></code> <code><img src="figures/keil5.svg" width="24"/></code> <code><img src="figures/stm32cubemx.svg" width="24"/></code> 
+<code><img src="figures/qtcreator.svg" width="24"/></code> <code><img src="figures/vs.svg" width="24"/></code> <code><img src="figures/vscode.svg" width="24"/></code> <code><img src="figures/Keil5.svg" width="24"/></code> <code><img src="figures/stm32cubemx.svg" width="24"/></code> 
 
 **Languages:**
 
