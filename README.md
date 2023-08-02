@@ -19,8 +19,20 @@ Here are some ideas to get you started:
 <td><img src="https://github-readme-stats.vercel.app/api?username=yunke120&show_icons=true&theme=radical&count_private=true" width="400"/></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunke120&theme=radical&layout=compact" width="337"/></td>
 </tr></table>
+**Platforms:**
+
+<code><img src="figures/linux.svg" width="24"/></code> <code><img src="figures/windows.svg" width="24"/></code> 
+
+**Tools:**
+
+<code><img src="figures/qtcreator.svg" width="24"/></code> <code><img src="figures/vs.svg" width="24"/></code> <code><img src="figures/vscode.svg" width="24"/></code> <code><img src="figures/keil5.svg" width="24"/></code> <code><img src="figures/stm32cubemx.svg" width="24"/></code> 
+
+**Languages:**
+
+<code><img src="figures/c.svg" width="24"/></code> <code><img src="figures/c++.svg" width="24"/></code> <code><img src="figures/python.svg" width="24"/></code> <code><img src="figures/HTML5.svg" width="24"/></code> 
 
 ### Qt
+
 [![qt-python-yolov5](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=qt-python-yolov5)](https://github.com/yunke120/qt-python-yolov5)
 [![Qt-Modbus](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=Qt-Modbus)](https://github.com/yunke120/Qt-Modbus)
 [![ydyodraw](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=ydyodraw)](https://github.com/yunke120/ydyodraw)
