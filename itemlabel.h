@@ -1,4 +1,4 @@
-#ifndef ITEMLABEL_H
+﻿#ifndef ITEMLABEL_H
 #define ITEMLABEL_H
 
 #include <QLabel>
@@ -9,7 +9,7 @@ class ItemLabel : public QLabel
     Q_OBJECT
 public:
     ItemLabel(QString _name, QString _pixmap, QWidget *parent = nullptr);
-    ~ItemLabel();
+    ~ItemLabel() override;
 
     QString nameString() const;
 

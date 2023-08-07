@@ -7,21 +7,21 @@ class MItem : public QGraphicsObject
 {
     Q_OBJECT
 public:
-    MItem(QGraphicsItem *parent = nullptr);
-    ~MItem();
+    explicit MItem(QGraphicsObject *parent = nullptr);
+    virtual ~MItem();
 
     QString nameString() const;
 
     virtual QRectF boundingRect() const = 0;
-    virtual void paint(QPainter *painter, const QStyleOptionGraphicsItem *option, QWidget *widget = nullptr) = 0;
+    virtual void paint(QPainter *painter, const QStyleOptionGraphicsItem *option, QWidget *widget = nullptr) = 0 ;
 
 protected:
-    virtual void drawSelectedRect(QPainter *painter); /* 画虚线框 */
-    virtual void hoverEnterEvent(QGraphicsSceneHoverEvent *event);
+    virtual void drawSelectedRect(QPainter *painter) ; /* 画虚线框 */
+    virtual void hoverEnterEvent(QGraphicsSceneHoverEvent *event) ;
     virtual void hoverLeaveEvent(QGraphicsSceneHoverEvent *event);
 
 protected:
-    QString name = "base";
+    QString name;
 };
 
 
@@ -29,7 +29,7 @@ class MItemRect : public MItem
 {
     Q_OBJECT
 public:
-    MItemRect(QGraphicsObject *parent = nullptr);
+    explicit MItemRect(QGraphicsObject *parent = nullptr);
 
     QRectF boundingRect() const override;
     void paint(QPainter *painter, const QStyleOptionGraphicsItem *option, QWidget *widget = nullptr) override;
@@ -40,7 +40,7 @@ class MItemEllipse : public MItem
 {
     Q_OBJECT
 public:
-    MItemEllipse(QGraphicsObject *parent = nullptr);
+    explicit MItemEllipse(QGraphicsObject *parent = nullptr);
 
     QRectF boundingRect() const override;
     void paint(QPainter *painter, const QStyleOptionGraphicsItem *option, QWidget *widget = nullptr) override;
@@ -51,7 +51,7 @@ class MItemText : public MItem
 {
     Q_OBJECT
 public:
-    MItemText(QGraphicsObject *parent = nullptr);
+    explicit MItemText(QGraphicsObject *parent = nullptr);
 
     QRectF boundingRect() const override;
     void paint(QPainter *painter, const QStyleOptionGraphicsItem *option, QWidget *widget = nullptr) override;

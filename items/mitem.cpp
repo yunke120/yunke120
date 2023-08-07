@@ -6,8 +6,9 @@
 #define Item_Height_Div2 20
 
 #include <QPainter>
-MItem::MItem(QGraphicsItem *parent)
+MItem::MItem(QGraphicsObject *parent)
     : QGraphicsObject(parent)
+    , name("base")
 {
     this->setAcceptedMouseButtons(Qt::LeftButton /*| Qt::RightButton*/);
     //this->setAcceptHoverEvents(true);
@@ -38,12 +39,12 @@ void MItem::drawSelectedRect(QPainter *painter)
 
 void MItem::hoverEnterEvent(QGraphicsSceneHoverEvent *event)
 {
-
+    Q_UNUSED(event)
 }
 
 void MItem::hoverLeaveEvent(QGraphicsSceneHoverEvent *event)
 {
-
+    Q_UNUSED(event)
 }
 
 /**********
@@ -135,7 +136,7 @@ void MItemText::mouseDoubleClickEvent(QGraphicsSceneMouseEvent *event)
     Q_UNUSED(event);
     bool ok;
     QString text = QInputDialog::getText(nullptr, nullptr,
-                                        tr("Input:"), QLineEdit::Normal,nullptr, &ok);
+                                        tr("Input text:"), QLineEdit::Normal,nullptr, &ok);
     if (ok && !text.isEmpty())
     {
         m_text = text;

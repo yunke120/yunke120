@@ -1,12 +1,14 @@
-#include "mview.h"
+﻿#include "mview.h"
 
 
 MView::MView(QWidget *parent)
+    : QGraphicsView(parent)
 {
     init();
 }
 
 MView::MView(QGraphicsScene *scene, QWidget *parent)
+    : QGraphicsView(parent)
 {
     this->setScene(scene);
     init();

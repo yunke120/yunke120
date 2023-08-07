@@ -7,15 +7,19 @@ class MScene : public QGraphicsScene
 {
 public:
     explicit MScene(QObject *parent = nullptr);
-    ~MScene();
-
+    ~MScene() override;
+    static int count; /* 引用计数 */
 private:
     QByteArray getItemClassName(QByteArray &name) const;
 
 protected:
-    void dragEnterEvent(QGraphicsSceneDragDropEvent *event);
-    void dragMoveEvent(QGraphicsSceneDragDropEvent *event);
-    void dropEvent(QGraphicsSceneDragDropEvent *event);
+    void dragEnterEvent(QGraphicsSceneDragDropEvent *event) override;
+    void dragMoveEvent(QGraphicsSceneDragDropEvent *event) override;
+    void dropEvent(QGraphicsSceneDragDropEvent *event) override;
+
+//    void mouseMoveEvent(QGraphicsSceneMouseEvent *mouseEvent) override;
+    void mousePressEvent(QGraphicsSceneMouseEvent *mouseEvent) override;
+    void mouseReleaseEvent(QGraphicsSceneMouseEvent *mouseEvent) override;
 
 };
 

@@ -119,10 +119,8 @@ QString MainWindow::getItemPixmap(const QString &name) const
 */
 void MainWindow::slotActNew()
 {
-    static int count = 0;
-    QString text = "untitled_" + QString::number(count);
-    count ++;
-    qDebug() << text;
+    QString text = "untitled_" + QString::number(MScene::count);
+
     MScene *pScene = new MScene(this);
     pScene->setSceneRect(-297*3/2, -210*3/2, 297*3, 210*3);
     MView *view = new MView(pScene);

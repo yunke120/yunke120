@@ -1,10 +1,11 @@
-#ifndef REFLECT_H
+﻿#ifndef REFLECT_H
 #define REFLECT_H
 
 #include <QByteArray>
 #include <QMetaObject>
 #include <QHash>
 #include <QGraphicsObject>
+
 class Reflect
 {
 public:
@@ -14,11 +15,11 @@ public:
         constructors().insert( T::staticMetaObject.className(), &constructorHelper<T> );
     }
 
-    static QGraphicsObject* createObject( const QByteArray& className, QGraphicsObject* parent = NULL )
+    static QGraphicsObject* createObject( const QByteArray& className, QGraphicsObject* parent = nullptr )
     {
         Constructor constructor = constructors().value( className );
-        if ( constructor == NULL )
-            return NULL;
+        if ( constructor == nullptr )
+            return nullptr;
         return (*constructor)( parent );
     }
 
