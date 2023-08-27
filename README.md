@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 ### ROS2
 [![ros2-foxy-study](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=ros2-foxy-study)](https://github.com/yunke120/ros2-foxy-study)
+[![ros2-foxy-advanced](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=ros2-foxy-advanced)](https://github.com/yunke120/ros2-foxy-advanced)
 ### SCM
 [![SCM](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=SCM)](https://github.com/yunke120/SCM)
 [![STM32F10x-FireMonitor](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=STM32F10x-FireMonitor)](https://github.com/yunke120/STM32F10x-FireMonitor)
