@@ -1,19 +1,11 @@
 ### Hi there 👋
 
-<!--
-**yunke120/yunke120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....
--->
+- 🔭 I’m currently working on a postgraduate student at Zhengzhou University.
+- 🌱 I’m currently learning **ROS2**, **Object Dtection**.
+- 👯 I'm looking for a job that suits me.
+- 📫 How to reach me: fj_18860352816@163.com.
 
 <table><tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=yunke120&show_icons=true&theme=radical&count_private=true" width="400"/></td>
@@ -43,6 +35,7 @@ Here are some ideas to get you started:
 [![Qt-AccessControl](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=Qt-AccessControl)](https://github.com/yunke120/Qt-AccessControl)
 [![III-Master](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=III-Master)](https://github.com/yunke120/III-Master)
 [![QtDrawing](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=QtDrawing)](https://github.com/yunke120/QtDrawing)
+[![pixel-coordinates](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=pixel-coordinates)](https://github.com/yunke120/pixel-coordinates)
 
 ### Algorithm
 [![face-detect-recognition](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=face-detect-recognition)](https://github.com/yunke120/face-detect-recognition)
