@@ -27,7 +27,7 @@
 [![QtCreatorTheme-VSCodeDarkPlus](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=QtCreatorTheme-VSCodeDarkPlus)](https://github.com/yunke120/QtCreatorTheme-VSCodeDarkPlus)
 [![Qt-AccessControl](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=Qt-AccessControl)](https://github.com/yunke120/Qt-AccessControl)
 [![QtDrawing](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=QtDrawing)](https://github.com/yunke120/QtDrawing)
-[![InspectMaster](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=III-Robot-Master)](https://github.com/yunke120/III-Robot-Master)
+[![III-Robot-Master-QT6-Win64](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=III-Robot-Master-QT6-WIn64)](https://github.com/yunke120/III-Robot-Master-QT6-WIn64)
 
 ### Algorithm
 [![face-detect-recognition](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=face-detect-recognition)](https://github.com/yunke120/face-detect-recognition)
