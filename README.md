@@ -32,7 +32,7 @@
 ### Algorithm
 [![face-detect-recognition](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=face-detect-recognition)](https://github.com/yunke120/face-detect-recognition)
 [![meter-defect-detecting](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=meter-defect-detecting)](https://github.com/yunke120/meter-defect-detecting)
-[![meter-yolo](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=meter-yolo)](https://github.com/yunke120/meter-yolo)
+[![III-Robot-Meter](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=III-Robot-Meter)](https://github.com/yunke120/III-Robot-Meter)
 [![Digital-Meter-Identification](https://github-readme-stats.vercel.app/api/pin/?username=yunke120&repo=Digital-Meter-Identification)](https://github.com/yunke120/Digital-Meter-Identification)
 
 ### ROS2
