@@ -16,7 +16,7 @@
 
 **Languages:**
 
-<code><img src="figures/c.svg" width="24"/></code> <code><img src="figures/c++.svg" width="24"/></code> <code><img src="figures/python.svg" width="24"/></code> <code><img src="figures/HTML5.svg" width="24"/></code> 
+<code><img src="figures/c.svg" width="24"/></code> <code><img src="figures/c++.svg" width="24"/></code> <code><img src="figures/python.svg" width="24"/></code> <code><img src="figures/HTML5.svg" width="24"/></code> <code><img src="figures/vue.svg" width="24"/></code> 
 
 ### Qt
 
